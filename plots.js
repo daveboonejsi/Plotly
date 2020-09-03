@@ -78,7 +78,7 @@ function init() {
       var data2 = bubbleData;
       
       var layout2 = {
-        title: 'Marker Size',
+        title: 'Bubble Chart of Belly Button Bacterial Species by Patient ID',
         showlegend: false,
         height: 600,
         width: 600
